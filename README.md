@@ -4,14 +4,14 @@ These files are intended to run on Debian based systems.
 
 ### Prerequisites
 
-**Firstly, place docker-compose.yml file inside the project directory !!!**
-
-Other prerequisites can be installed by launching the prepare.sh script
+These can be installed by launching the prepare.sh script
 ```
 git https://github.com/geris1337/statement.git
 cd statement
 sudo sh prepare.sh
 ```
+**Don't forget to place docker-compose.yml file inside the project directory !!!**
+
 ## Running the tests
 
 Launch the test

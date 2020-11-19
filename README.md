@@ -17,9 +17,9 @@ Once file is present, run the following to start up the containers
 sudo docker-compose up -d
 ```
 
-## Running the tests
+## Finally, run the test
 
-Launch the test
+To start execute the following line
 ```
 pytest -v
 ```

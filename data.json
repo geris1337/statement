@@ -1,0 +1,26 @@
+[{
+    "account_id": "Peter Peterson",
+    "amount": "10.00",
+    "currency": "EUR",
+    "date": "2020-11-15 11:11:00"
+}, {
+    "account_id": "Peter Peterson",
+    "amount": "-20.00",
+    "currency": "EUR",
+    "date": "2020-11-15 10:13:30"
+}, {
+    "account_id": "Peter Peterson",
+    "amount": "30.00",
+    "currency": "EUR",
+    "date": "2020-11-16 11:12:10"
+}, {
+    "account_id": "John Johnerson",
+    "amount": "0.00",
+    "currency": "EUR",
+    "date": "2020-11-18 14:43:12"
+}, {
+    "account_id": "John Johnerson",
+    "amount": "32.50",
+    "currency": "EUR",
+    "date": "2020-11-18 16:40:00"
+}]

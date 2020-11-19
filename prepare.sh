@@ -12,4 +12,3 @@ rm geckodriver-v0.28.0-linux64.tar.gz
 chmod +x geckodriver
 cp geckodriver /usr/local/bin/
 rm geckodriver
-docker-compose up -d

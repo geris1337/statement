@@ -11,6 +11,7 @@ cd statement
 sudo sh prepare.sh
 ```
 **Don't forget to place *docker-compose.yml* file inside the project directory !!!**
+
 Once file is present, run the following to start up the containers
 ```
 sudo docker-compose up -d

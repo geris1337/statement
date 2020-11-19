@@ -4,7 +4,9 @@ These files are intended to run on Debian based systems.
 
 ### Prerequisites
 
-These can be installed by launching the prepare.sh script inside the project directory
+**First place docker-compose.yml file inside the project directory !!!**
+
+Others prerequisites can be installed by launching the prepare.sh script
 ```
 git https://github.com/geris1337/statement.git
 cd statement

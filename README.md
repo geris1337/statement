@@ -10,7 +10,7 @@ git https://github.com/geris1337/statement.git
 cd statement
 sudo sh prepare.sh
 ```
-**Don't forget to place docker-compose.yml file inside the project directory !!!**
+**Don't forget to place *docker-compose.yml* file inside the project directory !!!**
 
 ## Running the tests
 

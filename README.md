@@ -19,7 +19,7 @@ sudo docker-compose up -d
 
 ## Finally, run the test
 
-To start execute the following line
+Execute the following line
 ```
 pytest -v
 ```
